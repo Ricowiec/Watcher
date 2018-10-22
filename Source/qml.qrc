@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>HomePage.qml</file>
+        <file>SearchPage.qml</file>
+        <file>ObservedPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>HelpPage.qml</file>
+        <file>DetailedPage.qml</file>
+    </qresource>
+</RCC>
